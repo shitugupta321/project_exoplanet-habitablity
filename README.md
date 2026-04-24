@@ -1,1 +1,1 @@
-# project_exoplanet-habitablity
+# project_exoplanet-habitability
